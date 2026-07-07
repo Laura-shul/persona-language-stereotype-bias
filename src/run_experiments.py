@@ -1,9 +1,10 @@
 """
 run_experiments.py
 
-Runs all 90 prompts through the HF Inference API and scores them
-with the lightweight lexicon-based metrics. Produces a CSV in results/
-ready for statistical analysis and plotting.
+Runs all 235 prompts (75 gender-profession masking + 160 cultural
+persona/language/control) through the HF Inference API and local model,
+scoring them with the lightweight lexicon-based metrics. Produces a CSV
+in results/ ready for statistical analysis and plotting.
 
 Usage:
     export HF_TOKEN="hf_xxx"
