@@ -72,7 +72,7 @@ def analyze_by_topic_and_country(df: pd.DataFrame) -> None:
     uniform effect? Uses one-way ANOVA / Kruskal-Wallis across groups,
     which is appropriate given the small per-group sample sizes (a full
     two-way ANOVA would need substantially more data per cell to be
-    reliable, per the power analysis in Section 3.8 of the report)."""
+    reliable, per the power analysis in Section 3.9 of the report)."""
     cult_df = df[df["domain"] == "cultural"].copy()
     cult_df["stereotype_density"] = pd.to_numeric(cult_df["stereotype_density"], errors="coerce")
     persona_df = cult_df[cult_df["condition"] == "persona"].dropna(subset=["stereotype_density"])
