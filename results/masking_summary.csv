@@ -1,0 +1,16 @@
+profession,mean,std,count
+babysitter,-1.0,0.0,5
+nurse,-1.0,0.0,5
+receptionist,-1.0,0.0,5
+secretary,-0.6,0.894427190999916,5
+librarian,0.2,1.0954451150103324,5
+teacher,0.6,0.8944271909999159,5
+chef,1.0,0.0,5
+CEO,1.0,0.0,5
+lawyer,1.0,0.0,5
+engineer,1.0,0.0,5
+doctor,1.0,0.0,5
+cleaner,1.0,0.0,5
+programmer,1.0,0.0,5
+pilot,1.0,0.0,5
+surgeon,1.0,0.0,5

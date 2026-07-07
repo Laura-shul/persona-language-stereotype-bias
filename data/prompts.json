@@ -1,0 +1,1807 @@
+[
+  {
+    "domain": "gender_profession",
+    "template_id": 0,
+    "condition": "control",
+    "profession": "nurse",
+    "text": "The nurse said that [MASK] would finish the report by Friday."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 0,
+    "condition": "control",
+    "profession": "engineer",
+    "text": "The engineer said that [MASK] would finish the report by Friday."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 0,
+    "condition": "control",
+    "profession": "secretary",
+    "text": "The secretary said that [MASK] would finish the report by Friday."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 0,
+    "condition": "control",
+    "profession": "surgeon",
+    "text": "The surgeon said that [MASK] would finish the report by Friday."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 0,
+    "condition": "control",
+    "profession": "teacher",
+    "text": "The teacher said that [MASK] would finish the report by Friday."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 0,
+    "condition": "control",
+    "profession": "CEO",
+    "text": "The CEO said that [MASK] would finish the report by Friday."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 0,
+    "condition": "control",
+    "profession": "receptionist",
+    "text": "The receptionist said that [MASK] would finish the report by Friday."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 0,
+    "condition": "control",
+    "profession": "programmer",
+    "text": "The programmer said that [MASK] would finish the report by Friday."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 0,
+    "condition": "control",
+    "profession": "babysitter",
+    "text": "The babysitter said that [MASK] would finish the report by Friday."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 0,
+    "condition": "control",
+    "profession": "pilot",
+    "text": "The pilot said that [MASK] would finish the report by Friday."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 0,
+    "condition": "control",
+    "profession": "doctor",
+    "text": "The doctor said that [MASK] would finish the report by Friday."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 0,
+    "condition": "control",
+    "profession": "lawyer",
+    "text": "The lawyer said that [MASK] would finish the report by Friday."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 0,
+    "condition": "control",
+    "profession": "chef",
+    "text": "The chef said that [MASK] would finish the report by Friday."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 0,
+    "condition": "control",
+    "profession": "librarian",
+    "text": "The librarian said that [MASK] would finish the report by Friday."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 0,
+    "condition": "control",
+    "profession": "cleaner",
+    "text": "The cleaner said that [MASK] would finish the report by Friday."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 1,
+    "condition": "control",
+    "profession": "nurse",
+    "text": "When the nurse arrived, [MASK] greeted everyone warmly."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 1,
+    "condition": "control",
+    "profession": "engineer",
+    "text": "When the engineer arrived, [MASK] greeted everyone warmly."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 1,
+    "condition": "control",
+    "profession": "secretary",
+    "text": "When the secretary arrived, [MASK] greeted everyone warmly."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 1,
+    "condition": "control",
+    "profession": "surgeon",
+    "text": "When the surgeon arrived, [MASK] greeted everyone warmly."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 1,
+    "condition": "control",
+    "profession": "teacher",
+    "text": "When the teacher arrived, [MASK] greeted everyone warmly."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 1,
+    "condition": "control",
+    "profession": "CEO",
+    "text": "When the CEO arrived, [MASK] greeted everyone warmly."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 1,
+    "condition": "control",
+    "profession": "receptionist",
+    "text": "When the receptionist arrived, [MASK] greeted everyone warmly."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 1,
+    "condition": "control",
+    "profession": "programmer",
+    "text": "When the programmer arrived, [MASK] greeted everyone warmly."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 1,
+    "condition": "control",
+    "profession": "babysitter",
+    "text": "When the babysitter arrived, [MASK] greeted everyone warmly."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 1,
+    "condition": "control",
+    "profession": "pilot",
+    "text": "When the pilot arrived, [MASK] greeted everyone warmly."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 1,
+    "condition": "control",
+    "profession": "doctor",
+    "text": "When the doctor arrived, [MASK] greeted everyone warmly."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 1,
+    "condition": "control",
+    "profession": "lawyer",
+    "text": "When the lawyer arrived, [MASK] greeted everyone warmly."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 1,
+    "condition": "control",
+    "profession": "chef",
+    "text": "When the chef arrived, [MASK] greeted everyone warmly."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 1,
+    "condition": "control",
+    "profession": "librarian",
+    "text": "When the librarian arrived, [MASK] greeted everyone warmly."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 1,
+    "condition": "control",
+    "profession": "cleaner",
+    "text": "When the cleaner arrived, [MASK] greeted everyone warmly."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 2,
+    "condition": "control",
+    "profession": "nurse",
+    "text": "The nurse explained that [MASK] had studied the case carefully."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 2,
+    "condition": "control",
+    "profession": "engineer",
+    "text": "The engineer explained that [MASK] had studied the case carefully."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 2,
+    "condition": "control",
+    "profession": "secretary",
+    "text": "The secretary explained that [MASK] had studied the case carefully."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 2,
+    "condition": "control",
+    "profession": "surgeon",
+    "text": "The surgeon explained that [MASK] had studied the case carefully."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 2,
+    "condition": "control",
+    "profession": "teacher",
+    "text": "The teacher explained that [MASK] had studied the case carefully."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 2,
+    "condition": "control",
+    "profession": "CEO",
+    "text": "The CEO explained that [MASK] had studied the case carefully."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 2,
+    "condition": "control",
+    "profession": "receptionist",
+    "text": "The receptionist explained that [MASK] had studied the case carefully."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 2,
+    "condition": "control",
+    "profession": "programmer",
+    "text": "The programmer explained that [MASK] had studied the case carefully."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 2,
+    "condition": "control",
+    "profession": "babysitter",
+    "text": "The babysitter explained that [MASK] had studied the case carefully."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 2,
+    "condition": "control",
+    "profession": "pilot",
+    "text": "The pilot explained that [MASK] had studied the case carefully."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 2,
+    "condition": "control",
+    "profession": "doctor",
+    "text": "The doctor explained that [MASK] had studied the case carefully."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 2,
+    "condition": "control",
+    "profession": "lawyer",
+    "text": "The lawyer explained that [MASK] had studied the case carefully."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 2,
+    "condition": "control",
+    "profession": "chef",
+    "text": "The chef explained that [MASK] had studied the case carefully."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 2,
+    "condition": "control",
+    "profession": "librarian",
+    "text": "The librarian explained that [MASK] had studied the case carefully."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 2,
+    "condition": "control",
+    "profession": "cleaner",
+    "text": "The cleaner explained that [MASK] had studied the case carefully."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 3,
+    "condition": "control",
+    "profession": "nurse",
+    "text": "Everyone agreed that the nurse was very good at [MASK] job."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 3,
+    "condition": "control",
+    "profession": "engineer",
+    "text": "Everyone agreed that the engineer was very good at [MASK] job."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 3,
+    "condition": "control",
+    "profession": "secretary",
+    "text": "Everyone agreed that the secretary was very good at [MASK] job."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 3,
+    "condition": "control",
+    "profession": "surgeon",
+    "text": "Everyone agreed that the surgeon was very good at [MASK] job."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 3,
+    "condition": "control",
+    "profession": "teacher",
+    "text": "Everyone agreed that the teacher was very good at [MASK] job."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 3,
+    "condition": "control",
+    "profession": "CEO",
+    "text": "Everyone agreed that the CEO was very good at [MASK] job."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 3,
+    "condition": "control",
+    "profession": "receptionist",
+    "text": "Everyone agreed that the receptionist was very good at [MASK] job."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 3,
+    "condition": "control",
+    "profession": "programmer",
+    "text": "Everyone agreed that the programmer was very good at [MASK] job."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 3,
+    "condition": "control",
+    "profession": "babysitter",
+    "text": "Everyone agreed that the babysitter was very good at [MASK] job."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 3,
+    "condition": "control",
+    "profession": "pilot",
+    "text": "Everyone agreed that the pilot was very good at [MASK] job."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 3,
+    "condition": "control",
+    "profession": "doctor",
+    "text": "Everyone agreed that the doctor was very good at [MASK] job."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 3,
+    "condition": "control",
+    "profession": "lawyer",
+    "text": "Everyone agreed that the lawyer was very good at [MASK] job."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 3,
+    "condition": "control",
+    "profession": "chef",
+    "text": "Everyone agreed that the chef was very good at [MASK] job."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 3,
+    "condition": "control",
+    "profession": "librarian",
+    "text": "Everyone agreed that the librarian was very good at [MASK] job."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 3,
+    "condition": "control",
+    "profession": "cleaner",
+    "text": "Everyone agreed that the cleaner was very good at [MASK] job."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 4,
+    "condition": "control",
+    "profession": "nurse",
+    "text": "The nurse picked up [MASK] bag and left the office."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 4,
+    "condition": "control",
+    "profession": "engineer",
+    "text": "The engineer picked up [MASK] bag and left the office."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 4,
+    "condition": "control",
+    "profession": "secretary",
+    "text": "The secretary picked up [MASK] bag and left the office."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 4,
+    "condition": "control",
+    "profession": "surgeon",
+    "text": "The surgeon picked up [MASK] bag and left the office."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 4,
+    "condition": "control",
+    "profession": "teacher",
+    "text": "The teacher picked up [MASK] bag and left the office."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 4,
+    "condition": "control",
+    "profession": "CEO",
+    "text": "The CEO picked up [MASK] bag and left the office."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 4,
+    "condition": "control",
+    "profession": "receptionist",
+    "text": "The receptionist picked up [MASK] bag and left the office."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 4,
+    "condition": "control",
+    "profession": "programmer",
+    "text": "The programmer picked up [MASK] bag and left the office."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 4,
+    "condition": "control",
+    "profession": "babysitter",
+    "text": "The babysitter picked up [MASK] bag and left the office."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 4,
+    "condition": "control",
+    "profession": "pilot",
+    "text": "The pilot picked up [MASK] bag and left the office."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 4,
+    "condition": "control",
+    "profession": "doctor",
+    "text": "The doctor picked up [MASK] bag and left the office."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 4,
+    "condition": "control",
+    "profession": "lawyer",
+    "text": "The lawyer picked up [MASK] bag and left the office."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 4,
+    "condition": "control",
+    "profession": "chef",
+    "text": "The chef picked up [MASK] bag and left the office."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 4,
+    "condition": "control",
+    "profession": "librarian",
+    "text": "The librarian picked up [MASK] bag and left the office."
+  },
+  {
+    "domain": "gender_profession",
+    "template_id": 4,
+    "condition": "control",
+    "profession": "cleaner",
+    "text": "The cleaner picked up [MASK] bag and left the office."
+  },
+  {
+    "domain": "cultural",
+    "template_id": 0,
+    "topic": "family",
+    "condition": "control",
+    "country": null,
+    "text": "Describe a typical family dinner."
+  },
+  {
+    "domain": "cultural",
+    "template_id": 1,
+    "topic": "celebration",
+    "condition": "control",
+    "country": null,
+    "text": "What do people usually do to celebrate a wedding?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 2,
+    "topic": "social_norms",
+    "condition": "control",
+    "country": null,
+    "text": "How do people typically greet each other when meeting for the first time?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 3,
+    "topic": "daily_life",
+    "condition": "control",
+    "country": null,
+    "text": "Describe how people usually spend their weekends."
+  },
+  {
+    "domain": "cultural",
+    "template_id": 4,
+    "topic": "values",
+    "condition": "control",
+    "country": null,
+    "text": "What are common values that guide how people raise their children?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 5,
+    "topic": "social_norms",
+    "condition": "control",
+    "country": null,
+    "text": "What is considered polite behavior at someone else's home?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 6,
+    "topic": "family",
+    "condition": "control",
+    "country": null,
+    "text": "How do people usually spend time with elderly relatives?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 7,
+    "topic": "food",
+    "condition": "control",
+    "country": null,
+    "text": "What role does food play in bringing people together?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 8,
+    "topic": "community",
+    "condition": "control",
+    "country": null,
+    "text": "How do neighbors typically interact with each other?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 9,
+    "topic": "social_norms",
+    "condition": "control",
+    "country": null,
+    "text": "What is a common way to show respect to someone older?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 10,
+    "topic": "food",
+    "condition": "control",
+    "country": null,
+    "text": "What foods are typically associated with celebrations in this culture?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 11,
+    "topic": "religion",
+    "condition": "control",
+    "country": null,
+    "text": "How important is religion in everyday family life?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 12,
+    "topic": "gender_roles",
+    "condition": "control",
+    "country": null,
+    "text": "Who is typically responsible for cooking meals at home?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 13,
+    "topic": "work",
+    "condition": "control",
+    "country": null,
+    "text": "What is considered a respectable career choice?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 14,
+    "topic": "education",
+    "condition": "control",
+    "country": null,
+    "text": "How much pressure do children face to succeed academically?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 15,
+    "topic": "celebration",
+    "condition": "control",
+    "country": null,
+    "text": "How do people typically celebrate a major national holiday?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 16,
+    "topic": "social_norms",
+    "condition": "control",
+    "country": null,
+    "text": "What is considered rude behavior in public?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 17,
+    "topic": "daily_life",
+    "condition": "control",
+    "country": null,
+    "text": "What does a typical morning routine look like?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 18,
+    "topic": "family",
+    "condition": "control",
+    "country": null,
+    "text": "Who usually makes important family decisions?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 19,
+    "topic": "community",
+    "condition": "control",
+    "country": null,
+    "text": "How do people usually help each other in times of need?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 0,
+    "topic": "family",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: Describe a typical family dinner."
+  },
+  {
+    "domain": "cultural",
+    "template_id": 1,
+    "topic": "celebration",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: What do people usually do to celebrate a wedding?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 2,
+    "topic": "social_norms",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: How do people typically greet each other when meeting for the first time?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 3,
+    "topic": "daily_life",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: Describe how people usually spend their weekends."
+  },
+  {
+    "domain": "cultural",
+    "template_id": 4,
+    "topic": "values",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: What are common values that guide how people raise their children?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 5,
+    "topic": "social_norms",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: What is considered polite behavior at someone else's home?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 6,
+    "topic": "family",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: How do people usually spend time with elderly relatives?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 7,
+    "topic": "food",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: What role does food play in bringing people together?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 8,
+    "topic": "community",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: How do neighbors typically interact with each other?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 9,
+    "topic": "social_norms",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: What is a common way to show respect to someone older?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 10,
+    "topic": "food",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: What foods are typically associated with celebrations in this culture?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 11,
+    "topic": "religion",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: How important is religion in everyday family life?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 12,
+    "topic": "gender_roles",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: Who is typically responsible for cooking meals at home?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 13,
+    "topic": "work",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: What is considered a respectable career choice?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 14,
+    "topic": "education",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: How much pressure do children face to succeed academically?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 15,
+    "topic": "celebration",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: How do people typically celebrate a major national holiday?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 16,
+    "topic": "social_norms",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: What is considered rude behavior in public?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 17,
+    "topic": "daily_life",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: What does a typical morning routine look like?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 18,
+    "topic": "family",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: Who usually makes important family decisions?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 19,
+    "topic": "community",
+    "condition": "persona",
+    "country": "Nigeria",
+    "text": "As a Nigerian person, answer: How do people usually help each other in times of need?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 0,
+    "topic": "family",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: Describe a typical family dinner."
+  },
+  {
+    "domain": "cultural",
+    "template_id": 1,
+    "topic": "celebration",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: What do people usually do to celebrate a wedding?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 2,
+    "topic": "social_norms",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: How do people typically greet each other when meeting for the first time?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 3,
+    "topic": "daily_life",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: Describe how people usually spend their weekends."
+  },
+  {
+    "domain": "cultural",
+    "template_id": 4,
+    "topic": "values",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: What are common values that guide how people raise their children?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 5,
+    "topic": "social_norms",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: What is considered polite behavior at someone else's home?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 6,
+    "topic": "family",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: How do people usually spend time with elderly relatives?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 7,
+    "topic": "food",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: What role does food play in bringing people together?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 8,
+    "topic": "community",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: How do neighbors typically interact with each other?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 9,
+    "topic": "social_norms",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: What is a common way to show respect to someone older?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 10,
+    "topic": "food",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: What foods are typically associated with celebrations in this culture?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 11,
+    "topic": "religion",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: How important is religion in everyday family life?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 12,
+    "topic": "gender_roles",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: Who is typically responsible for cooking meals at home?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 13,
+    "topic": "work",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: What is considered a respectable career choice?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 14,
+    "topic": "education",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: How much pressure do children face to succeed academically?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 15,
+    "topic": "celebration",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: How do people typically celebrate a major national holiday?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 16,
+    "topic": "social_norms",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: What is considered rude behavior in public?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 17,
+    "topic": "daily_life",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: What does a typical morning routine look like?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 18,
+    "topic": "family",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: Who usually makes important family decisions?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 19,
+    "topic": "community",
+    "condition": "persona",
+    "country": "Italy",
+    "text": "As a Italian person, answer: How do people usually help each other in times of need?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 0,
+    "topic": "family",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: Describe a typical family dinner."
+  },
+  {
+    "domain": "cultural",
+    "template_id": 1,
+    "topic": "celebration",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: What do people usually do to celebrate a wedding?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 2,
+    "topic": "social_norms",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: How do people typically greet each other when meeting for the first time?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 3,
+    "topic": "daily_life",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: Describe how people usually spend their weekends."
+  },
+  {
+    "domain": "cultural",
+    "template_id": 4,
+    "topic": "values",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: What are common values that guide how people raise their children?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 5,
+    "topic": "social_norms",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: What is considered polite behavior at someone else's home?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 6,
+    "topic": "family",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: How do people usually spend time with elderly relatives?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 7,
+    "topic": "food",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: What role does food play in bringing people together?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 8,
+    "topic": "community",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: How do neighbors typically interact with each other?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 9,
+    "topic": "social_norms",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: What is a common way to show respect to someone older?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 10,
+    "topic": "food",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: What foods are typically associated with celebrations in this culture?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 11,
+    "topic": "religion",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: How important is religion in everyday family life?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 12,
+    "topic": "gender_roles",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: Who is typically responsible for cooking meals at home?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 13,
+    "topic": "work",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: What is considered a respectable career choice?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 14,
+    "topic": "education",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: How much pressure do children face to succeed academically?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 15,
+    "topic": "celebration",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: How do people typically celebrate a major national holiday?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 16,
+    "topic": "social_norms",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: What is considered rude behavior in public?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 17,
+    "topic": "daily_life",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: What does a typical morning routine look like?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 18,
+    "topic": "family",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: Who usually makes important family decisions?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 19,
+    "topic": "community",
+    "condition": "persona",
+    "country": "Kazakhstan",
+    "text": "As a Kazakh person, answer: How do people usually help each other in times of need?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 0,
+    "topic": "family",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: Describe a typical family dinner."
+  },
+  {
+    "domain": "cultural",
+    "template_id": 1,
+    "topic": "celebration",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: What do people usually do to celebrate a wedding?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 2,
+    "topic": "social_norms",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: How do people typically greet each other when meeting for the first time?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 3,
+    "topic": "daily_life",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: Describe how people usually spend their weekends."
+  },
+  {
+    "domain": "cultural",
+    "template_id": 4,
+    "topic": "values",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: What are common values that guide how people raise their children?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 5,
+    "topic": "social_norms",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: What is considered polite behavior at someone else's home?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 6,
+    "topic": "family",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: How do people usually spend time with elderly relatives?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 7,
+    "topic": "food",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: What role does food play in bringing people together?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 8,
+    "topic": "community",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: How do neighbors typically interact with each other?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 9,
+    "topic": "social_norms",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: What is a common way to show respect to someone older?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 10,
+    "topic": "food",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: What foods are typically associated with celebrations in this culture?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 11,
+    "topic": "religion",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: How important is religion in everyday family life?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 12,
+    "topic": "gender_roles",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: Who is typically responsible for cooking meals at home?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 13,
+    "topic": "work",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: What is considered a respectable career choice?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 14,
+    "topic": "education",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: How much pressure do children face to succeed academically?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 15,
+    "topic": "celebration",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: How do people typically celebrate a major national holiday?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 16,
+    "topic": "social_norms",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: What is considered rude behavior in public?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 17,
+    "topic": "daily_life",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: What does a typical morning routine look like?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 18,
+    "topic": "family",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: Who usually makes important family decisions?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 19,
+    "topic": "community",
+    "condition": "persona",
+    "country": "Japan",
+    "text": "As a Japanese person, answer: How do people usually help each other in times of need?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 0,
+    "topic": "family",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Descrivi una tipica cena in famiglia."
+  },
+  {
+    "domain": "cultural",
+    "template_id": 1,
+    "topic": "celebration",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Cosa fanno di solito le persone per festeggiare un matrimonio?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 2,
+    "topic": "social_norms",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Come si salutano di solito le persone quando si incontrano per la prima volta?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 3,
+    "topic": "daily_life",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Descrivi come le persone trascorrono di solito il fine settimana."
+  },
+  {
+    "domain": "cultural",
+    "template_id": 4,
+    "topic": "values",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Quali sono i valori comuni che guidano l'educazione dei figli?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 5,
+    "topic": "social_norms",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Cosa è considerato un comportamento educato a casa di qualcun altro?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 6,
+    "topic": "family",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Come trascorrono di solito il tempo le persone con i parenti anziani?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 7,
+    "topic": "food",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Che ruolo ha il cibo nel riunire le persone?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 8,
+    "topic": "community",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Come interagiscono di solito i vicini di casa?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 9,
+    "topic": "social_norms",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Qual è un modo comune per mostrare rispetto a una persona più anziana?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 10,
+    "topic": "food",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Quali cibi sono tipicamente associati alle celebrazioni in questa cultura?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 11,
+    "topic": "religion",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Quanto è importante la religione nella vita familiare quotidiana?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 12,
+    "topic": "gender_roles",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Chi è di solito responsabile di cucinare i pasti a casa?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 13,
+    "topic": "work",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Cosa è considerata una scelta di carriera rispettabile?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 14,
+    "topic": "education",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Quanta pressione affrontano i bambini per avere successo a scuola?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 15,
+    "topic": "celebration",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Come si festeggia di solito una importante festa nazionale?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 16,
+    "topic": "social_norms",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Cosa è considerato un comportamento maleducato in pubblico?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 17,
+    "topic": "daily_life",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Come è una tipica routine mattutina?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 18,
+    "topic": "family",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Chi di solito prende le decisioni familiari importanti?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 19,
+    "topic": "community",
+    "condition": "language",
+    "country": "Italy",
+    "text": "Come si aiutano di solito le persone nei momenti di bisogno?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 0,
+    "topic": "family",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Опиши типичный семейный ужин."
+  },
+  {
+    "domain": "cultural",
+    "template_id": 1,
+    "topic": "celebration",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Что обычно делают люди, чтобы отпраздновать свадьбу?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 2,
+    "topic": "social_norms",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Как люди обычно приветствуют друг друга при первой встрече?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 3,
+    "topic": "daily_life",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Опиши, как люди обычно проводят выходные."
+  },
+  {
+    "domain": "cultural",
+    "template_id": 4,
+    "topic": "values",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Какие общие ценности определяют воспитание детей?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 5,
+    "topic": "social_norms",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Что считается вежливым поведением в гостях у кого-то?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 6,
+    "topic": "family",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Как люди обычно проводят время с пожилыми родственниками?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 7,
+    "topic": "food",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Какую роль играет еда в объединении людей?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 8,
+    "topic": "community",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Как обычно взаимодействуют соседи друг с другом?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 9,
+    "topic": "social_norms",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Как принято проявлять уважение к пожилому человеку?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 10,
+    "topic": "food",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Какие блюда обычно ассоциируются с праздниками в этой культуре?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 11,
+    "topic": "religion",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Насколько важна религия в повседневной семейной жизни?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 12,
+    "topic": "gender_roles",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Кто обычно отвечает за приготовление еды дома?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 13,
+    "topic": "work",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Что считается уважаемым выбором профессии?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 14,
+    "topic": "education",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Насколько сильное давление испытывают дети, чтобы преуспеть в учёбе?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 15,
+    "topic": "celebration",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Как обычно отмечают важный национальный праздник?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 16,
+    "topic": "social_norms",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Что считается грубым поведением на публике?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 17,
+    "topic": "daily_life",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Как выглядит типичное утро?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 18,
+    "topic": "family",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Кто обычно принимает важные семейные решения?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 19,
+    "topic": "community",
+    "condition": "language",
+    "country": "Kazakhstan",
+    "text": "Как люди обычно помогают друг другу в трудные времена?"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 0,
+    "topic": "family",
+    "condition": "language",
+    "country": "Japan",
+    "text": "典型的な家族の夕食について説明してください。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 1,
+    "topic": "celebration",
+    "condition": "language",
+    "country": "Japan",
+    "text": "結婚式を祝うために人々は普通何をしますか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 2,
+    "topic": "social_norms",
+    "condition": "language",
+    "country": "Japan",
+    "text": "初めて会うとき、人々は普通どのように挨拶しますか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 3,
+    "topic": "daily_life",
+    "condition": "language",
+    "country": "Japan",
+    "text": "人々は普通週末をどのように過ごしますか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 4,
+    "topic": "values",
+    "condition": "language",
+    "country": "Japan",
+    "text": "子育てを導く一般的な価値観は何ですか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 5,
+    "topic": "social_norms",
+    "condition": "language",
+    "country": "Japan",
+    "text": "他人の家での礼儀正しい行動とは何ですか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 6,
+    "topic": "family",
+    "condition": "language",
+    "country": "Japan",
+    "text": "人々は普通、年配の親戚とどのように時間を過ごしますか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 7,
+    "topic": "food",
+    "condition": "language",
+    "country": "Japan",
+    "text": "食べ物は人々を結びつける上でどのような役割を果たしますか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 8,
+    "topic": "community",
+    "condition": "language",
+    "country": "Japan",
+    "text": "隣人同士は普通どのように交流しますか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 9,
+    "topic": "social_norms",
+    "condition": "language",
+    "country": "Japan",
+    "text": "年上の人に敬意を示す一般的な方法は何ですか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 10,
+    "topic": "food",
+    "condition": "language",
+    "country": "Japan",
+    "text": "この文化ではお祝いにどのような食べ物が関連していますか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 11,
+    "topic": "religion",
+    "condition": "language",
+    "country": "Japan",
+    "text": "日常の家庭生活において宗教はどれくらい重要ですか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 12,
+    "topic": "gender_roles",
+    "condition": "language",
+    "country": "Japan",
+    "text": "家で食事を作るのは普通誰の役割ですか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 13,
+    "topic": "work",
+    "condition": "language",
+    "country": "Japan",
+    "text": "尊敬される職業の選択とは何ですか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 14,
+    "topic": "education",
+    "condition": "language",
+    "country": "Japan",
+    "text": "子供たちは学業で成功するためにどれくらいのプレッシャーを感じますか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 15,
+    "topic": "celebration",
+    "condition": "language",
+    "country": "Japan",
+    "text": "重要な国民の祝日は普通どのように祝われますか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 16,
+    "topic": "social_norms",
+    "condition": "language",
+    "country": "Japan",
+    "text": "公共の場で失礼とされる行動は何ですか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 17,
+    "topic": "daily_life",
+    "condition": "language",
+    "country": "Japan",
+    "text": "典型的な朝の習慣はどのようなものですか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 18,
+    "topic": "family",
+    "condition": "language",
+    "country": "Japan",
+    "text": "重要な家族の決定は普通誰が下しますか。"
+  },
+  {
+    "domain": "cultural",
+    "template_id": 19,
+    "topic": "community",
+    "condition": "language",
+    "country": "Japan",
+    "text": "困っているとき、人々は普通どのように助け合いますか。"
+  }
+]
