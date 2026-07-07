@@ -31,10 +31,14 @@ the magnitude of the Persona effect varies significantly across the four cultura
 contexts studied, and that stereotype density is strongly topic-dependent.
 
 To assess the robustness of this finding, the same comparison was independently
-replicated using four additional validation approaches: an LLM-as-a-Judge rating, an
-embedding-based semantic similarity score, and two rounds of human annotation. Three
-of these four independent checks did not confirm a significant correlation with SDS,
-indicating that the causal conclusion is, at present, specific to the lexicon-based
+replicated using three further validation approaches (four checks in total, since
+human annotation was conducted in two separate rounds): two rounds of human
+annotation by the author, an LLM-as-a-Judge rating, and an embedding-based semantic
+similarity score. Three of these four checks (both human-annotation rounds and the
+LLM-judge rating) found no significant correlation with SDS; the semantic score
+correlated significantly but only moderately with SDS, and did not replicate the
+main causal effect when substituted for SDS in the core comparison. This indicates
+that the causal conclusion is, at present, specific to the lexicon-based
 operationalization of stereotype density rather than a fully metric-independent
 effect. This cross-metric analysis, and its implications, is discussed in detail in
 `report.pdf`.
@@ -45,9 +49,9 @@ effect. This cross-metric analysis, and its implications, is discussed in detail
 |---|---|---|
 | 1 | Stereotype Density Score (SDS) — primary metric | `src/evaluation/bias_lexicon.py` |
 | 2 | Gender Association Score (masking experiment) | `src/evaluation/bias_lexicon.py` |
-| 3 | LLM-as-a-Judge rating | `src/correlate_annotations.py` |
-| 4 | Embedding-based semantic similarity | `src/evaluation/semantic_similarity.py` |
-| 5 | Human annotation | `src/correlate_annotations.py` |
+| 3 | Human annotation (two rounds: intuitive, then checklist-based) | `src/prepare_annotation_sample.py`, `src/correlate_annotations.py` |
+| 4 | LLM-as-a-Judge rating | `src/correlate_annotations.py` |
+| 5 | Embedding-based semantic similarity | `src/evaluation/semantic_similarity.py` |
 
 A sixth validation attempt, using a pretrained bias classifier mirroring the course's
 own classification technique, is implemented in `src/compute_classifier_scores.py`;
@@ -76,12 +80,14 @@ Prompts were custom-designed for this project rather than sourced from an existi
 benchmark; the rationale for this choice is discussed in `report.pdf`, Section 2.3.
 
 ## Repository Structure
+
+```
 nlp-project/
-├── report.pdf                        # final report
+├── report.pdf                        # final report (root copy, per course requirement)
 ├── report/
 │   ├── report.tex
-│   ├── report.pdf
-│   └── figures/
+│   ├── report.pdf                    # duplicate, needed for LaTeX compilation
+│   └── figures/                      # copies of figures used by LaTeX
 ├── src/
 │   ├── data_gen/
 │   │   └── prompt_builder.py         # generates the experimental prompt set
@@ -95,7 +101,7 @@ nlp-project/
 │   ├── analyze_results.py            # main statistical analysis and figures
 │   ├── error_analysis.py             # response categorization and qualitative examples
 │   ├── prepare_annotation_sample.py  # builds the human-annotation sample
-│   ├── correlate_annotations.py      # validates SDS against human ratings
+│   ├── correlate_annotations.py      # validates SDS against human/LLM ratings
 │   ├── compute_semantic_scores.py    # computes the semantic similarity metric
 │   ├── analyze_semantic_scores.py    # cross-metric validation analysis
 │   ├── compute_classifier_scores.py  # bias-classifier validation attempt
@@ -107,11 +113,13 @@ nlp-project/
 │   └── demo.ipynb                    # demonstration of the pipeline components
 ├── data/
 │   └── prompts.json                  # generated prompt set
-├── results/                          # experiment outputs
-├── figures/                          # report figures
+├── results/                          # experiment outputs (CSVs)
+├── figures/                          # report figures (PNGs)
 ├── slides/                           # presentation slides
+├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 
 ## Reproducing the Experiments
 
@@ -135,7 +143,10 @@ python src/error_analysis.py
 python src/compute_semantic_scores.py
 python src/analyze_semantic_scores.py
 
-# Human-annotation validation
+# Human-annotation / LLM-judge validation
+# (results/annotation_sample.csv already contains the author's real ratings;
+# prepare_annotation_sample.py is intentionally not re-run here, since it
+# would prompt for confirmation before overwriting them)
 python src/correlate_annotations.py
 ```
 
